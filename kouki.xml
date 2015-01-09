@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <HTML>
 <head>
@@ -22,7 +22,7 @@
   <link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
   <link expr:href='data:blog.url' rel='canonical'/>
   <!-- SEO Meta Tag -->
-  <meta content='Anime, Mega, 720p, 1080p, Fansub, Español Neutro, Español' name='keywords'/>
+  <meta content='Anime, Mega, 720p, 1080p, Fansub, Español Neutro, Español, OSU' name='keywords'/>
   <meta content='Página dedicada al fansubeo de series de anime' name='description'/>
   <meta content='general' name='rating'/>
   <meta content='all' name='robots'/>
